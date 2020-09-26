@@ -1,0 +1,11 @@
+name: nlp-intro
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - jupyter
+  - matplotlib
+  - nltk
+  - numpy
+  - pandas<1.1
+  - scikit-learn

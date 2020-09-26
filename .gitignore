@@ -1,0 +1,8 @@
+# data
+*.zip
+
+# misc
+.DS_Store
+*.log
+.ipynb_checkpoints/
+__pycache__/
